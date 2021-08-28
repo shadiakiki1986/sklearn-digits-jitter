@@ -10,4 +10,3 @@ Related links:
 - [xtomasch/kernels_and_dataset_centering.py](https://gist.github.com/xtomasch/84d1d8574ef51eb8d42e77560d647e06): Simple test to support my oppininon that RBF kernel does not benefit from centering
   - In fact, the notebook just demonstrates RBF insensitivity to "translation" meaning scale for 1D data, not translation of 2D images.
 - [svm-rbf-sensitivity-to-translation.ipynb](https://gist.github.com/shadiakiki1986/689980135fe9dde1d892127bde40a5a1): demo of sensitivity of SVM RBF to translation jitter
-- 
