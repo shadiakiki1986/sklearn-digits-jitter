@@ -1,4 +1,4 @@
-sklearn digits dataset with translation jitter added (from -3 to +3 pixels).
+sklearn digits dataset with translation jitter added (from -3 to +3 pixels) and padding to an odd dimension (important for preprocessing to center in notebook below).
 
 Used to test ML algos' invariance to translation.
 
